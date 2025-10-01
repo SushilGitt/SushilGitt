@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<p align="left">Currently Working On<br><br>Building a side project called “Expense App”, a full-stack web application using the MERN stack, where users can create, view, update, and delete expenses.<br><br>Currently Looking For<br><br>An opportunity to apply my skills in a real-world software development environment while learning from experienced developers and contributing to impactful projects.<br><br>Currently Learning<br><br>Deepening my expertise in the MERN stack by developing side projects that test and solidify my understanding.<br><br>Learning Data Structures and Algorithms (DSA) to strengthen my problem-solving and coding foundations.</p>
+<p align="left">Currently Looking For<br><br>An opportunity to apply my skills in a real-world software development environment while learning from experienced developers and contributing to impactful projects.<br><br>Currently Learning<br><br>Deepening my expertise in the MERN stack by developing side projects that test and solidify my understanding.<br><br>Learning Data Structures and Algorithms (DSA) to strengthen my problem-solving and coding foundations.</p>
 
 ###
 
