@@ -1,6 +1,6 @@
 # Hey, I'm Sushil👋
-- A Software Developer with A cuorious mind and problems solving attitude. Graduated in 2025 with a Bachelor of Computer Application. 
-- I have a solid foundation in both frontend and backend development. Able to built React components as well as implement backend APIs end-points using Node.js & Express.js!
+- A Software Developer with a curious mind and problem-solving attitude. Graduated in 2025 with a Bachelor of Computer Application.
+- I have a solid foundation in both frontend and backend development. I'm able to build React components as well as implement backend API endpoints using Node.js & Express.js!
 - I believe we learn best by solving problems. I am seeking a role where I can gain hands-on experience, write impactful software solutions, and learn from experienced software engineers.
 ---
 #### PROFILES
