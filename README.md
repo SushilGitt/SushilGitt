@@ -14,7 +14,7 @@
 | **Programming Languages** | Java, C++, Python|
 | **Frontend** | HTML, CSS, Tailwind CSS, JavaScript, React.js |
 | **Backend** | Node.js, Express.js |
-| **Databases** | MongoDB |
+| **Databases** | MongoDB, MySQL |
 | **Tools** |VSCode, Git, GitHub, Postman |
 ---
 
