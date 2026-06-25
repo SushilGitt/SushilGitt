@@ -186,37 +186,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SushilGitt/SushilGitt/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2026 13:17:40 UTC
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SushilGitt&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SushilGitt&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true" alt="Sushil's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilGitt&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SushilGitt&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SushilGitt&theme=redical&hide_border=true&area=true" alt="Contribution graph" />
-</p>
-
-<!--
-  🐍 Contribution snake — needs a GitHub Action to generate the animation.
-  Add .github/workflows/snake.yml (Platane/snk) to your SushilGitt repo,
-  then this image will render the snake eating your contribution grid:
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SushilGitt/SushilGitt/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-</p>
-
----
-
-<p align="center">
-  💬 Always happy to connect, collaborate, and learn together. Let's build something! 💛
-</p>
+ 
+ 
